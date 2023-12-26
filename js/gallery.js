@@ -99,7 +99,6 @@ function imageClick(event) {
   <img
       class="modal-image"
       src="${original}"
-      data-source="${original}"
       alt="${description}"
     />
     </div>`,
